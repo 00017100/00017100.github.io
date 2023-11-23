@@ -6,3 +6,6 @@ the third page has info about products which this company produces and also a fo
 the fourth page consist of review of people about Artel company and footer
 the fifth page is about Artel app for mobile phones and the convinience of usage and at bottom contains of footer
 the last page consist of contact page in which used javascript part for sending email of users
+
+
+host link: https://00017100.github.io/
